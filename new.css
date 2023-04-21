@@ -1,0 +1,7 @@
+.nav-item active:hover {
+  color: red;
+}
+
+.nav-item.nav-link :hover {
+  color: white;
+}
